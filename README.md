@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
@@ -85,3 +86,6 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+=======
+# ai-resume-analyzer
+>>>>>>> d0d41c1eb7bc9dd9e7c5d397291d99db30504466
